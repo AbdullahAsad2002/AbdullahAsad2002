@@ -10,14 +10,13 @@
 - <h3> Contact Me
 - 📫Just mail me on (muhammadabdullahasad2002@gmail.com)
 - <h2> Projects:
-- I have done different projects with different language . for example I created a Tic Tac Toe game using Html,CSS and JavaScript 
-- I created Head Tail Cricket game using Python 
-- I created Rock Paper Scissor game using python 
-- I created Snake game,T rex game ,and websites landing pages using html,css and javascript
 - I have created a cards game while taking Data structure and algorithm course using pure C++.
   The rules and idea was completely new and the game is not anywhere on the internet.Altough
   I didn't make UI of the game and the game runs on terminal but the game is very addictive while
   playing.The winning is based on predicting the move of opponent and bit of luck also.
+- I have done different projects with different language . for example I created a Tic Tac Toe game using Html,CSS and JavaScript .
+- I created Head Tail Cricket game , rock|paper|sccisor using Python.
+- I created Snake game,T rex game ,and websites landing pages using html,css and javascript.
 - <h1> Skills :
 -  HTML
 -  CSS
